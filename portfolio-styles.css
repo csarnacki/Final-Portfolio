@@ -88,15 +88,15 @@ body {
   align-content: space-between;
 }
 
-#js-counter-info, #js-background-info, #js-calculator-info, #js-tip-calculator-info, #visit-austin-page-info, #yamco-health-page-info {
+#password-generate, #hp-spell-book, #interactive-quiz, #e-comm-back-end, #visit-austin-page-info, #yamco-health-page-info {
   font-size: 28px;
 }
 
-#js-counter, #js-background, #js-calculator {
+#pw-generate, #spell-book, #js-quiz {
   padding-bottom: 20px;
 }
 
-#js-tip-calculator, #visit-austin-page, #yamco-health-page {
+#e-commerce, #visit-austin-page, #yamco-health-page {
   padding-bottom: 20px;
 }
 
