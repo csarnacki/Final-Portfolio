@@ -88,7 +88,7 @@ body {
   align-content: space-between;
 }
 
-#password-generate, #hp-spell-book, #interactive-quiz, #e-comm-back-end, #video-game-info, #yamco-health-page-info {
+#password-generate, #hp-spell-book, #interactive-quiz, #e-comm-back-end, #video-game-info, #story-share-info {
   font-size: 28px;
 }
 
@@ -96,7 +96,7 @@ body {
   padding-bottom: 20px;
 }
 
-#e-commerce, #video-game-queue, #yamco-health-page {
+#e-commerce, #video-game-queue, #story-share {
   padding-bottom: 20px;
 }
 
