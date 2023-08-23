@@ -88,7 +88,7 @@ body {
   align-content: space-between;
 }
 
-#password-generate, #hp-spell-book, #interactive-quiz, #e-comm-back-end, #visit-austin-page-info, #yamco-health-page-info {
+#password-generate, #hp-spell-book, #interactive-quiz, #e-comm-back-end, #video-game-info, #yamco-health-page-info {
   font-size: 28px;
 }
 
@@ -96,7 +96,7 @@ body {
   padding-bottom: 20px;
 }
 
-#e-commerce, #visit-austin-page, #yamco-health-page {
+#e-commerce, #video-game, #yamco-health-page {
   padding-bottom: 20px;
 }
 
